@@ -1,0 +1,8 @@
+Nom: L'Ancien
+Energy: 0
+Force: 0
+Joie: 9
+Faim: 5
+Fatigue: 2
+Proprete: 8
+MalusForce: 3

@@ -1,0 +1,8 @@
+Nom: GodTama
+Energy: 10
+Force: 10
+Joie: 10
+Faim: 0
+Fatigue: 0
+Proprete: 10
+MalusForce: 0
