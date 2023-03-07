@@ -5,7 +5,7 @@ Jeux qui permet d'élever et de gérer un tamagotchi ainsi que de faire des comb
 ### Utilisation : 
 
 - télécharger le dossier zip 
-- ouvrir le dossier décomprésser dans un IDE (Invironnement de Développement)utilisant le Java comme EclipseIDE
+- ouvrir le dossier décomprésser dans un IDE (Invironnement de Développement) utilisant le Java comme EclipseIDE
 - puis se déplacer dans le fichier Main.java : Tamagotchi -> src -> main ->Main.java
 - puis le lancer (Run main)
 
