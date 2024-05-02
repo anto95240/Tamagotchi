@@ -1,6 +1,6 @@
 # Tamagotchi
 
-Jeux qui permet d'élever et de gérer un tamagotchi ainsi que de faire des combats avec d'autre tamagotchi avec un système de combats comme dans les jeux Pokémon
+Jeux qui permet d'élever et de gérer un tamagotchi ainsi que de faire des combats avec d'autres tamagotchis avec un système de combats comme dans les jeux Pokémon
 
 ### Utilisation : 
 
