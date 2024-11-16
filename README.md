@@ -11,10 +11,13 @@ Pour exécuter ce projet, vous aurez besoin d'un IDE compatible avec Java. Vous 
 ## Utilisation
 - Téléchargez le projet en cliquant sur Code > Download ZIP.
 - Extrayez les fichiers dans un dossier de votre choix.
-- Ouvrez le dossier dans un IDE compatible avec Java, comme Eclipse IDE.
+- Ouvrez le dossier dans un IDE compatible avec Java.
 - Accédez au fichier principal :
+  ```bash
   Tamagotchi -> src -> main -> Main.java.
-- Lancez le programme en exécutant le fichier Main.java (Run Main).
+- Lancez le programme en exécutant le fichier Main.java :
+  ```bash
+  Run Main
 
 ## Technologies utilisées
 
