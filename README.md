@@ -4,7 +4,7 @@ Jeux qui permet d'élever et de gérer un tamagotchi ainsi que de faire des comb
 
 ## Prérequis
 
-Pour exécuter ce projet, vous aurez besoin d'un IDE compatible avec Java, tel que :
+Pour exécuter ce projet, vous aurez besoin d'un IDE compatible avec Java. Vous pouvez l'un des IDE suivant :
 - Eclipse : [télécharger Eclipse](https://www.eclipse.org/downloads/)
 - IntelliJ IDEA : [télécharger IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
 
