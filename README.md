@@ -21,7 +21,7 @@ Pour exécuter ce projet, vous aurez besoin d'un IDE compatible avec Java. Vous 
 
 ## Technologies utilisées
 
-Java
+- Java
 
 ### Projet Réaliser par : 
 
